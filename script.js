@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
     copyright.textContent =
       "\u00A9 " +
       new Date().getFullYear() +
-      " AEQUA | Servicios Legales. Todos los derechos reservados.";
+      " EQUPI | Servicios Legales. Todos los derechos reservados.";
   }
 
   navLinks.forEach((link) => {
