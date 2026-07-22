@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
     copyright.textContent =
       "\u00A9 " +
       new Date().getFullYear() +
-      " EQUA | Firma Legal. Todos los derechos reservados.";
+      " AEQUA | Servicios Legales. Todos los derechos reservados.";
   }
 
   navLinks.forEach((link) => {
